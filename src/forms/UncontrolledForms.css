@@ -1,0 +1,22 @@
+#main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+form{
+    background-color: #fff;
+    padding: 2rem;
+}
+ form .input {
+    width: 200px;
+ }
+ form button {
+    background-color: rgb(4, 126, 182);
+    color: #fff;
+    padding: .3rem .6rem;
+    cursor: pointer;
+    margin-top: .3rem;
+    border: none;
+
+ }
